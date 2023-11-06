@@ -1,11 +1,14 @@
 import React from 'react';
 import JustifyContent from './JustifyContent';
+import JustifyItems from './JustifyItems';
 
 
 const App = () => {
   return (
-    <div>
+    <div class="flex flex-col gap-y-10">
       <JustifyContent/>
+      <JustifyItems/>
+
       
     </div>
   );
