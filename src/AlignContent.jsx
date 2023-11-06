@@ -1,7 +1,7 @@
 import React from 'react';
 
 const AlignContent = () => {
-  return (
+  return (// in multiple flex rows and Grid items
     <div class="grid grid-cols-2 content-between h-60 bg-yellow-300 gap-7">
             <div class="bg-violet-500 w-12 h-7">01</div>
             <div class="bg-violet-500 w-12 h-7">02</div>
