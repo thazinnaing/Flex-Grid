@@ -16,7 +16,7 @@ const App = () => {
       <JustifySelf/>
       {/* <AlignContent/> */}
       <AlignItems/>
-      {/* <AlignSelf/> */}
+      <AlignSelf/>
     </div>
   );
 }
