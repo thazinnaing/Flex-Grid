@@ -4,6 +4,7 @@ import JustifyItems from './JustifyItems';
 import JustifySelf from './JustifySelf';
 import AlignContent from './AlignContent';
 import AlignItems from './AlignItems';
+import AlignSelf from './AlignSelf';
 
 
 
@@ -15,6 +16,7 @@ const App = () => {
       <JustifySelf/>
       <AlignContent/>
       <AlignItems/>
+      <AlignSelf/>
 
       
     </div>
