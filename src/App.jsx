@@ -14,11 +14,9 @@ const App = () => {
       <JustifyContent/>
       <JustifyItems/>
       <JustifySelf/>
-      <AlignContent/>
+      {/* <AlignContent/> */}
       <AlignItems/>
-      <AlignSelf/>
-
-      
+      {/* <AlignSelf/> */}
     </div>
   );
 }
