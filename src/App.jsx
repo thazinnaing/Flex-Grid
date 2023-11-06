@@ -1,6 +1,7 @@
 import React from 'react';
 import JustifyContent from './JustifyContent';
 import JustifyItems from './JustifyItems';
+import JustifySelf from './JustifySelf';
 
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
     <div class="flex flex-col gap-y-10">
       <JustifyContent/>
       <JustifyItems/>
+      <JustifySelf/>
 
       
     </div>

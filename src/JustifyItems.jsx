@@ -1,7 +1,7 @@
 import React from 'react';
 
 const JustifyItems = () => {
-  return (
+  return ( // For Grid
     <div class="grid grid-cols-3 justify-items-center gap-7">
         <div class="bg-violet-500 w-12 h-7">01</div>
         <div class="bg-violet-500 w-12 h-7">02</div>

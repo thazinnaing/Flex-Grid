@@ -1,8 +1,8 @@
 import React from 'react';
 
 const JustifyContent = () => {
-  return (
-    <div class="flex justify-center gap-7">
+  return (  // for Flex 
+    <div class="flex flex-row justify-center gap-7">
         <div class="bg-violet-500 w-12 h-7">01</div>
         <div class="bg-violet-500 w-12 h-7">02</div>
         <div class="bg-violet-500 w-12 h-7">03</div>
